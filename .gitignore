@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+~$*
+.venv/
+.DS_Store
+# 執行後產生的輸出檔
+整理結果.xlsx
